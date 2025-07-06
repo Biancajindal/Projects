@@ -8,15 +8,16 @@ ________________________________________
 
 💡 Key insights include:
 
-1.	Year-over-year changes in default rates
+•	Year-over-year changes in default rates
 
-2.	Borrower risk segmentation by credit score and income
+•	Borrower risk segmentation by credit score and income
 
-3.	Loan distribution trends across age, education, and marital status
+•	Loan distribution trends across age, education, and marital status
 
-4.	Use of financial risk metrics like debt-to-income ratio and credit score bands
+•	Use of financial risk metrics like debt-to-income ratio and credit score bands
 
-5.	Demographic and educational trends influencing loan behaviours
+•	Demographic and educational trends influencing loan behaviours
+
 ________________________________________
 🛠️ Tools & Skills Applied:
 
