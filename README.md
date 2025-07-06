@@ -74,7 +74,7 @@ LinkedIn
 ________________________________________
 📌 Tags:
 
-Power BI Data Visualization E-commerce Analytics DAX Power Query Dashboard Business Intelligence SQL
+#Power BI #Data Visualization #E-commerce Analytics #DAX Power Query Dashboard #Business #Intelligence SQL
 
 
 
