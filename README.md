@@ -68,7 +68,7 @@ ________________________________________
 
 Bianca Jindal
 
-LinkedIn
+https://www.linkedin.com/in/bianca-jindal/
 
 📧 Email: jindalbianca@gmail.com
 ________________________________________
