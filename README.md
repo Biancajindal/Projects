@@ -1,5 +1,7 @@
 Power_Bi_Dashboard
+
 📊 Loan Default & Financial Risk Metrics Dashboard  (Power BI)
+
 This project shows trends across employment type, loan purpose, age group, education level, and credit score bins. The goal was to extract actionable insights that can help drive better decision-making .
 ________________________________________
 📁 Project Overview
