@@ -9,26 +9,39 @@ ________________________________________
 💡 Key insights include:
 
 •	Year-over-year changes in default rates
+
 •	Borrower risk segmentation by credit score and income
+
 •	Loan distribution trends across age, education, and marital status
+
 •	Use of financial risk metrics like debt-to-income ratio and credit score bands
+
 •	Demographic and educational trends influencing loan behaviours
 ________________________________________
 🛠️ Tools & Skills Applied:
 
 •	Power BI
+
 •	DAX
+
 •	Data Cleaning & Transformation
+
 •	Data Modelling
+
 •	Custom Visual Design & Theming
+
 •	Report Publishing & Sharing
 ________________________________________
 🧠 What I Learned:
 
 •	How to design and build an interactive dashboard from raw data
+
 •	Use of complex parameters, filters, and slicers for detailed drill-downs
+
 •	Joining tables and transforming data using Power Query
+
 •	Creating measures and KPIs using DAX
+
 •	Storytelling through data visualization and layout design
 ________________________________________
 📸 Dashboard Snapshot:
