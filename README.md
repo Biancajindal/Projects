@@ -37,7 +37,7 @@ ________________________________________
 
 •	How to design and build an interactive dashboard from raw data
 
-•	Use of complex parameters, filters, and slicers for detailed drill-downs
+•	Use of complex parameters, filters for detailed drill-downs
 
 •	Joining tables and transforming data using Power Query
 
